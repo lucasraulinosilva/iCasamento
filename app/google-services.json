@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "588821527591",
+    "firebase_url": "https://testando-firebase-android-default-rtdb.firebaseio.com",
+    "project_id": "testando-firebase-android",
+    "storage_bucket": "testando-firebase-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588821527591:android:6050a325ae9f3b7316e202",
+        "android_client_info": {
+          "package_name": "com.example.casamento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZmu1hirQer1cOTXC78CD9u9bW_Gh-uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588821527591:android:de98b6e5d1deeacd16e202",
+        "android_client_info": {
+          "package_name": "com.example.icasamento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZmu1hirQer1cOTXC78CD9u9bW_Gh-uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
